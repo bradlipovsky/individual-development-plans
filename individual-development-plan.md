@@ -7,8 +7,8 @@ Setting goals can help you be more intentional about the experiences you have in
  
 1. Do a self-assessment or inventory of your current skills, knowledge areas, talents, strengths, and passions.
 Some existing tools to help with self-assessment are, for example:
- i. AAAS tool (science-based but broadly applicable for research): http://myidp.sciencecareers.org[1]
-Ii. Visual DNA (capacities – “who am I” - and personality assessment): http://www.visualdna.com
+a. AAAS tool (science-based but broadly applicable for research): http://myidp.sciencecareers.org[1]
+b. Visual DNA (capacities – “who am I” - and personality assessment): http://www.visualdna.com
  
 2. After some self-reflection, identify areas that you want to develop further over the next year keeping in mind your longer-term goals.
 Once you have a good handle on your skills and strengths, you can see where there are gaps between where you are and where you aspire to be. Are there classes, workshops, online tutorials, etc. that can help you grow your skillset in certain areas? Informational interviews, networking, or job shadowing that can help you break into a career?
