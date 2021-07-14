@@ -8,8 +8,8 @@ Setting goals can help you be more intentional about the experiences you have in
 ## The Process
 1. Do a self-assessment or inventory of your current skills, knowledge areas, talents, strengths, and passions.
 Some existing tools to help with self-assessment are, for example:
-a. AAAS tool (science-based but broadly applicable for research): http://myidp.sciencecareers.org[1]
-b. Visual DNA (capacities – “who am I” - and personality assessment): http://www.visualdna.com
+a. [AAAS tool](http://myidp.sciencecareers.org) (science-based but broadly applicable for research): 
+b. [Visual DNA](http://www.visualdna.com) (capacities – “who am I” - and personality assessment): 
  
 2. After some self-reflection, identify areas that you want to develop further over the next year keeping in mind your longer-term goals.
 Once you have a good handle on your skills and strengths, you can see where there are gaps between where you are and where you aspire to be. Are there classes, workshops, online tutorials, etc. that can help you grow your skillset in certain areas? Informational interviews, networking, or job shadowing that can help you break into a career?
@@ -30,7 +30,7 @@ This person could be your faculty mentor or a peer, someone to talk with about y
 How you manage your goals will be personal.  Some people make a “vision board” to literally map their goals and intentions for the year on a wall they can see regularly.  Others tape their goals into their notebook or calendar to check on a weekly basis.  Still others prefer an e-format to update more regularly.  The important thing is to choose a method that works for you that will motivate you and feel satisfying, and not just be another task on the to-do list. 
 
 ## Annual Checkup
-In our group, we complete an annual IDP review by filling out this template: (link)[ https://docs.google.com/spreadsheets/d/1Y6s1D5mPucprF49RBbvpqatXORImolSaOStb91Hg9fI/edit?usp=sharing]
+In our group, we complete an annual IDP review by filling out this template: [link](https://docs.google.com/spreadsheets/d/1Y6s1D5mPucprF49RBbvpqatXORImolSaOStb91Hg9fI/edit?usp=sharing)
 
 ## Acknowledgements
-modified from the template of the department of Atmospheric Sciences - UW]
+This document was modified from the template of the department of Atmospheric Sciences at UW.
