@@ -1,5 +1,5 @@
  
-CREATING AN INDIVIDUAL DEVELOPMENT PLAN:
+# INDIVIDUAL DEVELOPMENT PLAN
 Making the most of your graduate and postdoctoral experience
 
 
@@ -28,5 +28,5 @@ This person could be your faculty mentor or a peer, someone to talk with about y
 7. Keep your goals visible.  
 How you manage your goals will be personal.  Some people make a “vision board” to literally map their goals and intentions for the year on a wall they can see regularly.  Others tape their goals into their notebook or calendar to check on a weekly basis.  Still others prefer an e-format to update more regularly.  The important thing is to choose a method that works for you that will motivate you and feel satisfying, and not just be another task on the to-do list. 
 
-
-[modified from the template of the department of Atmospheric Sciences - UW]
+## Acknowledgements
+modified from the template of the department of Atmospheric Sciences - UW]
