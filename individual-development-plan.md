@@ -1,10 +1,11 @@
  
-# INDIVIDUAL DEVELOPMENT PLAN
-Making the most of your graduate and postdoctoral experience
+# Individual Development Plan
+*Make the most of your graduate and postdoctoral experience*
 
-
+## Why IDPs?
 Setting goals can help you be more intentional about the experiences you have in your training, and can provide key steps to heading in the right direction for you.  The best goals are SMART: specific, measurable, achievable (actionable), relevant, and timely.  They should also be aspirational, and move beyond merely a “to-do” list that becomes burdensome.  Where do you see yourself heading?  Who do you want to become? What experiences will help you get there?
  
+## The Process
 1. Do a self-assessment or inventory of your current skills, knowledge areas, talents, strengths, and passions.
 Some existing tools to help with self-assessment are, for example:
 a. AAAS tool (science-based but broadly applicable for research): http://myidp.sciencecareers.org[1]
